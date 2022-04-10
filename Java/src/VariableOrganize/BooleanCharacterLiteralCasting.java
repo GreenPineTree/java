@@ -1,4 +1,4 @@
-package VariableOrganize02;
+package VariableOrganize;
 
 public class BooleanCharacterLiteralCasting {
 

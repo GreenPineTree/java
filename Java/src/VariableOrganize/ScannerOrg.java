@@ -1,4 +1,4 @@
-package VariableOrganize03;
+package VariableOrganize;
 
 import java.util.Scanner;
 

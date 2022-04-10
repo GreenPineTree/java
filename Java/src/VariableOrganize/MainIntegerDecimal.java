@@ -1,4 +1,4 @@
-package VariableOrganize01;
+package VariableOrganize;
 
 public class MainIntegerDecimal {
 	// 프로그램의 시작점 : main() 메소드
